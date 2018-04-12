@@ -1,0 +1,33 @@
+/* styling for Train Time homework exercise */
+
+
+
+h4 {
+    font-style: italic;
+}
+
+h6 {
+    font-style: italic;
+    text-align: right;
+}
+
+.card {
+    margin-bottom: 30px;
+}
+
+.card-heading {
+    background-color: #007bff;
+    color: #fff;
+    padding-left: 20px;
+    padding-top:15px;
+    margin-bottom: 30px;
+    border-radius: 5px;
+}
+
+#entry-box.card.card-primary {
+    margin-left: 15px;
+}
+    
+
+
+
